@@ -1,5 +1,5 @@
 # NASA-Data-Products
-This wiki page is for oceanographic EOS datasets. List of accessible ocean colour and atmospheric data products:-
+This wiki page is for oceanographic EOS and atmospheric datasets. List of accessible data products:-
 
 (1) https://winds.jpl.nasa.gov </cr>
 (Added 2017/10/12)
@@ -16,6 +16,8 @@ https://podaac.jpl.nasa.gov/
 
 (5) Sea Surface Temperature and Winds from NOAA, including from ships, buoys and moorings.</cr>
 https://www.ncdc.noaa.gov/
+
+WRF atmospheric forecast and archive data products coming soon :)
 
 
 
