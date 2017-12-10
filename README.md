@@ -1,5 +1,5 @@
 # NASA-Data-Products
-This wiki page is for oceanographic EOS datasets. List of data accessible data products:-
+This wiki page is for oceanographic EOS datasets. List of accessible ocean colour and atmospheric data products:-
 
 (1) https://winds.jpl.nasa.gov </cr>
 (Added 2017/10/12)
